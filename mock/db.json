@@ -1,0 +1,24 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123456",
+      "avatar": "https://raw.githubusercontent.com/taylorchen709/markdown-images/master/vueadmin/user.png",
+      "name": "张某某"
+    }
+  ],
+  "userList": [
+    {
+      "id": 1,
+      "naem": "test",
+      "sex": {
+        "key": "",
+        "verbose": "女"
+      },
+      "age": 20,
+      "birth": "1997-01-02",
+      "address": "湖北省 黄冈市 蕲春县"
+    }
+  ]
+}

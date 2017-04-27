@@ -31,8 +31,8 @@ export default new Router({
       path: '/',
       component: Home,
       name: '导航二',
-      iconCls: 'el-icon-message',//图标样式class
-      leaf: false,//只有一个节点(true)
+      iconCls: 'el-icon-message',
+      leaf: false,
       children: [
         { path: '/Page2', component: Page2, name: '计算', hidden: false }
       ]
@@ -41,8 +41,8 @@ export default new Router({
       path: '/',
       component: Home,
       name: '',
-      iconCls: 'el-icon-message',//图标样式class
-      leaf: true,  //只有一个节点(true)
+      iconCls: 'el-icon-message',
+      leaf: true,
       children: [
         { path: '/Page3', component: Page3, name: '导航三', hidden: false }
       ]

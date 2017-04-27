@@ -1,6 +1,6 @@
-# y
+# vue Admin
 
-> A Vue.js project
+> 一个基于vue+json-server+router+vuex的后台管理系统
 
 ## Build Setup
 
